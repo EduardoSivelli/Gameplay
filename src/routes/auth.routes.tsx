@@ -11,7 +11,7 @@ return (
   <Navigator
   screenOptions={{
     headerShown: false,
-    
+    contentStyle:{ backgroundColor: 'transparent' },
   }}>
 
     <Screen 
